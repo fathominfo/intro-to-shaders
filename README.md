@@ -1,6 +1,6 @@
 ## Intro to Shaders
 
-This repository is a light introduction to the capabilities of WebGL shaders, as well as some of the complexities of working with them. This set of examples was initially developed for an internal workshop at <a href="https://fathom.info">Fathom Information Design</a>, and are tailored for an audience with a wide range of coding experience. Learn more <a href="https://medium.com/p/cb8ca9678c06/edit">here</a>. 
+This repository is a light introduction to the capabilities of WebGL shaders, as well as some of the complexities of working with them. This set of examples was initially developed for an internal workshop at <a href="https://fathom.info">Fathom Information Design</a>, and are tailored for an audience with a wide range of coding experience. Learn more <a href="https://medium.com/fathominfo/a-light-take-on-shaders-cb8ca9678c06">here</a>. 
 
 The examples get progressively more complex, starting with the basics of textures and images, and evolving to 3D shapes and representing data. As the examples progress, changes are flagged with a comment that reads "New:".
 
