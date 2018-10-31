@@ -1,0 +1,238 @@
+					
+					
+					
+					
+Index	Region, subregion, country or area	Urban	Rural	Total	ISO3
+15	Burundi	  1 462	  9 755	  11 216	BDI
+16	Comoros	   241	   591	   832	COM
+17	Djibouti	   756	   216	   971	DJI
+18	Eritrea	  2 079	  3 109	  5 188	ERI
+19	Ethiopia	  22 328	  85 207	  107 535	ETH
+20	Kenya	  13 772	  37 179	  50 951	KEN
+21	Madagascar	  9 767	  16 496	  26 263	MDG
+22	Malawi	  3 246	  15 919	  19 165	MWI
+23	Mauritius	   517	   751	  1 268	MUS
+24	Mayotte	   120	   140	   260	MYT
+25	Mozambique	  10 987	  19 542	  30 529	MOZ
+26	Réunion	   879	   4	   883	REU
+27	Rwanda	  2 152	  10 350	  12 501	RWA
+28	Seychelles	   54	   41	   95	SYC
+29	Somalia	  6 827	  8 355	  15 182	SOM
+30	South Sudan	  2 534	  10 385	  12 919	SSD
+31	Uganda	  10 525	  33 745	  44 271	UGA
+32	United Republic of Tanzania	  19 959	  39 133	  59 091	TZA
+33	Zambia	  7 664	  9 946	  17 609	ZMB
+34	Zimbabwe	  5 448	  11 466	  16 913	ZWE
+36	Angola	  20 162	  10 613	  30 774	AGO
+37	Cameroon	  13 912	  10 766	  24 678	CMR
+38	Central African Republic	  1 960	  2 778	  4 737	CAF
+39	Chad	  3 540	  11 813	  15 353	TCD
+40	Congo	  3 613	  1 786	  5 400	COG
+41	Democratic Republic of the Congo	  37 349	  46 656	  84 005	COD
+42	Equatorial Guinea	   948	   366	  1 314	GNQ
+43	Gabon	  1 848	   220	  2 068	GAB
+44	Sao Tome and Principe	   152	   57	   209	STP
+46	Algeria	  30 510	  11 498	  42 008	DZA
+47	Egypt	  42 438	  56 938	  99 376	EGY
+48	Libya	  5 183	  1 288	  6 471	LBY
+49	Morocco	  22 603	  13 589	  36 192	MAR
+50	Sudan	  14 380	  27 131	  41 512	SDN
+51	Tunisia	  8 038	  3 621	  11 659	TUN
+52	Western Sahara	   492	   76	   567	ESH
+54	Botswana	  1 620	   713	  2 333	BWA
+55	Lesotho	   637	  1 626	  2 263	LSO
+56	Namibia	  1 295	  1 293	  2 588	NAM
+57	South Africa	  38 087	  19 312	  57 398	ZAF
+58	Swaziland	   331	  1 060	  1 391	SWZ
+60	Benin	  5 434	  6 052	  11 486	BEN
+61	Burkina Faso	  5 799	  13 953	  19 752	BFA
+62	Cabo Verde	   364	   190	   553	CPV
+63	Côte d'Ivoire	  12 647	  12 259	  24 906	CIV
+64	Gambia	  1 326	   838	  2 164	GMB
+65	Ghana	  16 517	  12 946	  29 464	GHA
+66	Guinea	  4 717	  8 335	  13 053	GIN
+67	Guinea-Bissau	   827	  1 080	  1 907	GNB
+68	Liberia	  2 483	  2 371	  4 854	LBR
+69	Mali	  8 093	  11 014	  19 108	MLI
+70	Mauritania	  2 437	  2 103	  4 540	MRT
+71	Niger	  3 665	  18 647	  22 311	NER
+72	Nigeria	  98 611	  97 264	  195 875	NGA
+73	Saint Helena	   2	   2	   4	SHN
+74	Senegal	  7 690	  8 605	  16 294	SEN
+75	Sierra Leone	  3 247	  4 473	  7 720	SLE
+76	Togo	  3 332	  4 659	  7 991	TGO
+79	China	  837 022	  578 024	 1 415 046	CHN
+80	China, Hong Kong SAR	  7 429	0	  7 429	HKG
+81	China, Macao SAR	   632	0	   632	MAC
+82	China, Taiwan Province of China	  18 518	  5 176	  23 694	TWN
+83	Dem. People's Republic of Korea	  15 853	  9 758	  25 611	PRK
+84	Japan	  116 522	  10 664	  127 185	JPN
+85	Mongolia	  2 137	   985	  3 122	MNG
+86	Republic of Korea	  41 678	  9 486	  51 164	KOR
+89	Kazakhstan	  10 569	  7 835	  18 404	KAZ
+90	Kyrgyzstan	  2 229	  3 904	  6 133	KGZ
+91	Tajikistan	  2 471	  6 636	  9 107	TJK
+92	Turkmenistan	  3 019	  2 832	  5 851	TKM
+93	Uzbekistan	  16 337	  16 028	  32 365	UZB
+95	Afghanistan	  9 273	  27 100	  36 373	AFG
+96	Bangladesh	  60 944	  105 424	  166 368	BGD
+97	Bhutan	   334	   483	   817	BTN
+98	India	  460 780	  893 272	 1 354 052	IND
+99	Iran (Islamic Republic of)	  61 425	  20 587	  82 012	IRN
+100	Maldives	   177	   267	   444	MDV
+101	Nepal	  5 848	  23 776	  29 624	NPL
+102	Pakistan	  73 630	  127 183	  200 814	PAK
+103	Sri Lanka	  3 871	  17 079	  20 950	LKA
+105	Brunei Darussalam	   337	   97	   434	BRN
+106	Cambodia	  3 800	  12 446	  16 246	KHM
+107	Indonesia	  147 603	  119 192	  266 795	IDN
+108	Lao People's Democratic Republic	  2 437	  4 524	  6 961	LAO
+109	Malaysia	  24 364	  7 679	  32 042	MYS
+110	Myanmar	  16 468	  37 387	  53 856	MMR
+111	Philippines	  49 962	  56 550	  106 512	PHL
+112	Singapore	  5 792	0	  5 792	SGP
+113	Thailand	  34 556	  34 627	  69 183	THA
+114	Timor-Leste	   405	   919	  1 324	TLS
+115	Viet Nam	  34 659	  61 832	  96 491	VNM
+117	Armenia	  1 853	  1 081	  2 934	ARM
+118	Azerbaijan	  5 526	  4 398	  9 924	AZE
+119	Bahrain	  1 399	   168	  1 567	BHR
+120	Cyprus	   794	   395	  1 189	CYP
+121	Georgia	  2 291	  1 616	  3 907	GEO
+122	Iraq	  27 724	  11 616	  39 340	IRQ
+123	Israel	  7 812	   641	  8 453	ISR
+124	Jordan	  9 010	   893	  9 904	JOR
+125	Kuwait	  4 197	0	  4 197	KWT
+126	Lebanon	  5 398	   695	  6 094	LBN
+127	Oman	  4 083	   747	  4 830	OMN
+128	Qatar	  2 672	   23	  2 695	QAT
+129	Saudi Arabia	  28 133	  5 421	  33 554	SAU
+130	State of Palestine	  3 848	  1 204	  5 053	PSE
+131	Syrian Arab Republic	  9 903	  8 381	  18 284	SYR
+132	Turkey	  61 555	  20 362	  81 917	TUR
+133	United Arab Emirates	  8 256	  1 286	  9 542	ARE
+134	Yemen	  10 595	  18 320	  28 915	YEM
+137	Belarus	  7 429	  2 023	  9 452	BLR
+138	Bulgaria	  5 278	  1 759	  7 037	BGR
+139	Czechia	  7 841	  2 785	  10 625	CZE
+140	Hungary	  6 913	  2 776	  9 689	HUN
+141	Poland	  22 885	  15 220	  38 105	POL
+142	Republic of Moldova	  1 723	  2 318	  4 041	MDA
+143	Romania	  10 573	  9 008	  19 581	ROU
+144	Russian Federation	  107 157	  36 808	  143 965	RUS
+145	Slovakia	  2 928	  2 522	  5 450	SVK
+146	Ukraine	  30 521	  13 488	  44 009	UKR
+148	Channel Islands	   51	   115	   166	CHI
+149	Denmark	  5 057	   698	  5 754	DNK
+150	Estonia	   900	   407	  1 307	EST
+151	Faeroe Islands	   21	   29	   49	FRO
+152	Finland	  4 732	   810	  5 543	FIN
+153	Iceland	   317	   21	   338	ISL
+154	Ireland	  3 035	  1 769	  4 804	IRL
+155	Isle of Man	   45	   40	   85	IMN
+156	Latvia	  1 315	   615	  1 930	LVA
+157	Lithuania	  1 947	   930	  2 876	LTU
+158	Norway	  4 403	   950	  5 353	NOR
+159	Sweden	  8 728	  1 255	  9 983	SWE
+160	United Kingdom	  55 521	  11 052	  66 574	GBR
+162	Albania	  1 770	  1 164	  2 934	ALB
+163	Andorra	   68	   9	   77	AND
+164	Bosnia and Herzegovina	  1 690	  1 813	  3 504	BIH
+165	Croatia	  2 372	  1 793	  4 165	HRV
+166	Gibraltar	   35	0	   35	GIB
+167	Greece	  8 809	  2 333	  11 142	GRC
+168	Holy See	   1	0	   1	VAT
+169	Italy	  41 763	  17 528	  59 291	ITA
+170	Malta	   409	   23	   432	MLT
+171	Montenegro	   420	   209	   629	MNE
+172	Portugal	  6 711	  3 580	  10 291	PRT
+173	San Marino	   33	   1	   34	SMR
+174	Serbia	  4 915	  3 847	  8 762	SRB
+175	Slovenia	  1 135	   946	  2 081	SVN
+176	Spain	  37 267	  9 130	  46 397	ESP
+177	TFYR Macedonia	  1 209	   876	  2 085	MKD
+179	Austria	  5 102	  3 650	  8 752	AUT
+180	Belgium	  11 269	   230	  11 499	BEL
+181	France	  52 476	  12 757	  65 233	FRA
+182	Germany	  63 622	  18 671	  82 293	DEU
+183	Liechtenstein	   5	   33	   38	LIE
+184	Luxembourg	   537	   53	   590	LUX
+185	Monaco	   39	0	   39	MCO
+186	Netherlands	  15 631	  1 454	  17 084	NLD
+187	Switzerland	  6 305	  2 239	  8 544	CHE
+190	Anguilla	   15	0	   15	AIA
+191	Antigua and Barbuda	   25	   78	   103	ATG
+192	Aruba	   46	   60	   106	ABW
+193	Bahamas	   332	   68	   399	BHS
+194	Barbados	   89	   197	   286	BRB
+195	British Virgin Islands	   15	   17	   32	VGB
+196	Caribbean Netherlands	   19	   6	   26	BES
+197	Cayman Islands	   62	0	   62	CYM
+198	Cuba	  8 851	  2 638	  11 489	CUB
+199	Curaçao	   144	   18	   162	CUW
+200	Dominica	   52	   22	   74	DMA
+201	Dominican Republic	  8 823	  2 060	  10 883	DOM
+202	Grenada	   39	   69	   108	GRD
+203	Guadeloupe	   442	   7	   449	GLP
+204	Haiti	  6 143	  4 970	  11 113	HTI
+205	Jamaica	  1 614	  1 285	  2 899	JAM
+206	Martinique	   343	   42	   385	MTQ
+207	Montserrat	   0	   5	   5	MSR
+208	Puerto Rico	  3 424	   235	  3 659	PRI
+209	Saint Kitts and Nevis	   17	   39	   56	KNA
+210	Saint Lucia	   34	   146	   180	LCA
+211	Saint Vincent and the Grenadines	   58	   53	   110	VCT
+212	Sint Maarten (Dutch part)	   41	0	   41	SXM
+213	Trinidad and Tobago	   730	   643	  1 373	TTO
+214	Turks and Caicos Islands	   33	   2	   36	TCA
+215	United States Virgin Islands	   100	   4	   105	VIR
+217	Belize	   175	   208	   382	BLZ
+218	Costa Rica	  3 930	  1 023	  4 953	CRI
+219	El Salvador	  4 618	  1 794	  6 412	SLV
+220	Guatemala	  8 804	  8 441	  17 245	GTM
+221	Honduras	  5 377	  4 040	  9 417	HND
+222	Mexico	  104 811	  25 948	  130 759	MEX
+223	Nicaragua	  3 678	  2 607	  6 285	NIC
+224	Panama	  2 818	  1 344	  4 163	PAN
+226	Argentina	  41 056	  3 633	  44 689	ARG
+227	Bolivia (Plurinational State of)	  7 786	  3 429	  11 216	BOL
+228	Brazil	  182 546	  28 321	  210 868	BRA
+229	Chile	  15 934	  2 263	  18 197	CHL
+230	Colombia	  39 956	  9 508	  49 465	COL
+231	Ecuador	  10 762	  6 101	  16 863	ECU
+232	Falkland Islands (Malvinas)	   2	   1	   3	FLK
+233	French Guiana	   247	   43	   290	GUF
+234	Guyana	   208	   574	   782	GUY
+235	Paraguay	  4 247	  2 649	  6 897	PRY
+236	Peru	  25 360	  7 192	  32 552	PER
+237	Suriname	   375	   193	   568	SUR
+238	Uruguay	  3 308	   162	  3 470	URY
+239	Venezuela (Bolivarian Republic of)	  28 563	  3 819	  32 381	VEN
+241	Bermuda	   61	0	   61	BMU
+242	Canada	  30 084	  6 869	  36 954	CAN
+243	Greenland	   49	   7	   57	GRL
+244	Saint Pierre and Miquelon	   6	   1	   6	SPM
+245	United States of America	  268 787	  57 980	  326 767	USA
+248	Australia	  21 307	  3 465	  24 772	AUS
+249	New Zealand	  4 110	   639	  4 750	NZL
+251	Fiji	   513	   399	   912	FJI
+252	New Caledonia	   198	   82	   280	NCL
+253	Papua New Guinea	  1 109	  7 310	  8 418	PNG
+254	Solomon Islands	   148	   475	   623	SLB
+255	Vanuatu	   71	   211	   282	VUT
+257	Guam	   157	   9	   166	GUM
+258	Kiribati	   64	   54	   118	KIR
+259	Marshall Islands	   41	   12	   53	MHL
+260	Micronesia (Fed. States of)	   24	   82	   106	FSM
+261	Nauru	   11	0	   11	NRU
+262	Northern Mariana Islands	   51	   5	   55	MNP
+263	Palau	   18	   4	   22	PLW
+265	American Samoa	   49	   7	   56	ASM
+266	Cook Islands	   13	   4	   17	COK
+267	French Polynesia	   177	   109	   286	PYF
+268	Niue	   1	   1	   2	NIU
+269	Samoa	   36	   162	   198	WSM
+270	Tokelau	0	   1	   1	TKL
+271	Tonga	   25	   84	   109	TON
+272	Tuvalu	   7	   4	   11	TUV
+273	Wallis and Futuna Islands	0	   12	   12	WLF
