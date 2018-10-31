@@ -1,4 +1,6 @@
-  <h1>Shaders</h1>
+<p><i>Note: this resource is from an internal workshop. You can read more about it <a href="https://medium.com/p/cb8ca9678c06/edit">here</a>. If you choose to edit the code, some familiarity with javascript is required: at the very leat, you need to be able to comment out code, and remove the double slashes that comment out code.</i></p>
+  
+<h1>Shaders</h1>
   <p>We'll describe shaders with a host of examples that you can play with. Fire up your text editor, because the fun lies in tweaking the code in the examples. In general, each example is set up so that with minor edits you can do fun changes. In many cases, the code will have sections that you can comment in or out that result in dramatic changes. </p>
 
   <p>What makes shaders special is that they are designed to run in parallel. For example, some are designed to run once for every pixel on the screen. If you are drawing a window that is 1,000 x 1,00 pixels at 30 frames a second, that makes 30,000,000 commands every second. By making them run in parallel (usually on special hardware called the GPU), drawing programs can do all sorts of complicated things a lot faster. </p>
