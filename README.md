@@ -1,12 +1,12 @@
 ## Intro to Shaders
 
-This repository is a light introduction to the capabilities of WebGL shaders, as well as some of the complexities of working with them. This set of examples was initially developed for an internal workshop at <a href="https://fathom.info">Fathom Information Design</a>, and are tailored for an audience with a wide range of coding experience. Learn more <a href="https://medium.com/fathominfo/a-light-take-on-shaders-cb8ca9678c06">here</a>. 
+This repository is a light introduction to the capabilities of WebGL shaders, as well as some of the complexities of working with them. This set of examples was initially developed for an internal workshop at <a href="https://fathom.info">Fathom Information Design</a>, and is tailored for an audience with a wide range of coding experience. Learn more <a href="https://medium.com/fathominfo/a-light-take-on-shaders-cb8ca9678c06">here</a>.
 
 The examples get progressively more complex, starting with the basics of textures and images, and evolving to 3D shapes and representing data. As the examples progress, changes are flagged with a comment that reads "New:".
 
 Browsing and reading the examples can help you appreciate shaders, but if you are comfortable with some light code editing, you are strongly encouraged to edit each of them as you go. They are set up so that you can comment out and uncomment in different features and behaviors as you go.
 
-Also included is a little python webserver. If you have python on your system, you should be able to run the server.tool. It will launch a little webserver and show the examples in your browser of choice. Assuming that browser is WebGL enabled, you chould be good to go.
+Also included is a little python webserver. If you have python on your system, you should be able to run the server.tool. It will launch a little webserver and show the examples in your browser of choice. Assuming that browser is WebGL enabled, you should be good to go.
 
 
 ## License
