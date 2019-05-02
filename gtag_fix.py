@@ -43,7 +43,7 @@ for fname in indices:
 
   if needs_analytics:
     print("tagging %s" % (fname))
-    lines.insert(style_end_tag_line, TAG)
+    lines.insert(style_end_tag_line + 1, TAG)
     f = open(fname, 'w')
     f.write("".join(lines))
     f.close()
